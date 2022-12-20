@@ -15,7 +15,9 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   flutter_svg: ^0.22.0
-  flutter_neumorphic_null_safety: ^3.2.0
+  flutter_neumorphic:
+    git:
+      url: "https://github.com/alionour/Flutter-Neumorphic"
   event_bus: ^2.0.0
   get_it: ^7.0.0
   simple_animations: ^3.1.1
